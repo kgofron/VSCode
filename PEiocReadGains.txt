@@ -1,0 +1,13 @@
+Values read by the PerkinElmer Gains.his file:
+
+FileType=7000
+HeaderSize=68
+HeaderVersion=100
+FileSize=16777316
+ImageHeaderSize=32
+ULX=1, ULY=1
+BRX=2048, BRY=2048
+NrOfFrames=1
+Correction=1
+IntegrationTime=66577.777778
+TypeOfNumbers=32
